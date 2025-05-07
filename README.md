@@ -4,7 +4,24 @@ This is an educational React app built while following the ["React – The Compl
 
 The app demonstrates fundamental React concepts and is intended for personal learning.
 
-The app is currently under development.
+## Features
+
+- Calculate investment returns over a specified duration
+- Input customization for:
+  - Initial investment amount
+  - Annual investment contributions
+  - Expected return rate
+  - Investment duration
+- Detailed yearly breakdown showing:
+  - Investment value
+  - Yearly interest
+  - Total interest earned
+  - Total invested capital
+- Input validation for duration
+
+## Screenshots
+
+![App Preview](Screenshot.png)
 
 
 
